@@ -42,7 +42,6 @@
   <ItemGroup>
     <Compile Include="iCSpect.cs" />
     <Compile Include="iPlugin.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SSprite.cs" />
     <Compile Include="Z80Regs.cs" />
   </ItemGroup>
